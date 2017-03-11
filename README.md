@@ -1,4 +1,4 @@
-# Counter Culture - “Find My Coffee” App
+# Educational Project - Counter Culture - “Find My Coffee” App
 
 ### Concept
 This app will help users decide which coffee type to choose based on their flavor and taste preferences. Project will incorporate Counter Culture’s 20 different varieties of coffee, compiling characteristics, taste profiles and keywords associated with those varieties, cross-referencing these components in order to provide the customer with accurate product suggestions.
